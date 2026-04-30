@@ -5,5 +5,3 @@ Recently I've made minecraft server monitoring but aftr all I accidentally opene
 ## Warning
 This programm can be used by you at your own risk as it can doesnt help in case of real DDoS or other problem.
 But you can use it in case of neccesity of re-strapping, nothing more.
-
-## Also its just pet-project and I want to perfect it in near future!
